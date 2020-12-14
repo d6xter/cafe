@@ -6,6 +6,3 @@ def water():
 
 def desk_premium():
 	return "desk"
-
-def americano():
-	return "americano"
