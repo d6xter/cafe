@@ -4,5 +4,5 @@ def toilet():
 def water():
 	return "water"
 
-def desk():
+def desk_premium():
 	return "desk"
