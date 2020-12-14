@@ -9,3 +9,6 @@ def desk_free():
 
 def air_conditioner():
 	return "air_conditioner"
+
+def roasting_machine():
+	return "roasting_machine"
