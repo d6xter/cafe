@@ -6,3 +6,6 @@ def water():
 
 def desk_free():
 	return "desk"
+
+def chair():
+	return "chair"
