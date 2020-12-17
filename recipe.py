@@ -15,3 +15,6 @@ def phone_charge():
 
 def garden():
 	return "garden"
+
+def americano_ver1():
+	return "amercano"
