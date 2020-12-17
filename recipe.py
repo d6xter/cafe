@@ -9,3 +9,6 @@ def desk_premium():
 
 def plastic_bottle():
 	return "plastic bottle"
+
+def americano():
+	return "amercano"
