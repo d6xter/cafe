@@ -12,3 +12,6 @@ def plastic_bottle():
 
 def phone_charge():
 	return "phonecharge"
+
+def garden():
+	return "garden"
